@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\bin\Debug\netcoreapp3.1\POO1.exe
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\bin\Debug\netcoreapp3.1\POO1.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\bin\Debug\netcoreapp3.1\POO1.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\bin\Debug\netcoreapp3.1\POO1.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\bin\Debug\netcoreapp3.1\POO1.dll
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\bin\Debug\netcoreapp3.1\POO1.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.dll
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\POO1\obj\Debug\netcoreapp3.1\POO1.genruntimeconfig.cache
